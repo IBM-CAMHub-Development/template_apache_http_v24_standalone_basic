@@ -535,7 +535,6 @@ resource "camc_softwaredeploy" "HTTPNode01_httpd24-base-install" {
 EOT
 }
 
-
 #########################################################
 ##### Resource : VaultItem
 #########################################################
